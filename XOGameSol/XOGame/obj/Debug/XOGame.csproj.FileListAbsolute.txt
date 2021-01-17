@@ -1,0 +1,10 @@
+C:\Users\Hary\source\repos\XOGameSol\XOGame\bin\Debug\XOGame.exe.config
+C:\Users\Hary\source\repos\XOGameSol\XOGame\bin\Debug\XOGame.exe
+C:\Users\Hary\source\repos\XOGameSol\XOGame\bin\Debug\XOGame.pdb
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.csprojAssemblyReference.cache
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.Form1.resources
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.Properties.Resources.resources
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.csproj.GenerateResource.cache
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.csproj.CoreCompileInputs.cache
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.exe
+C:\Users\Hary\source\repos\XOGameSol\XOGame\obj\Debug\XOGame.pdb
